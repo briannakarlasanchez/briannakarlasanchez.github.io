@@ -1,0 +1,22 @@
+h1 {
+    position:absolute;
+    color: whitesmoke;
+    height: auto;
+    width: 39.5%;
+    padding: -43.4%;
+    margin-left: 1%;
+    margin-right: -3%;
+    margin-bottom: auto;
+    border:2px;
+    border-style: solid;
+    border-color: white;
+    border-bottom: auto;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 43.5px;
+    font-weight: bold;
+    font-style: italic;
+    left: 9%;
+    top: 28%;
+    transform: translateX(80px);
+}
+

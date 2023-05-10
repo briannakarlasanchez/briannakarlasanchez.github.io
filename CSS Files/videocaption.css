@@ -1,0 +1,22 @@
+figure {
+    position:absolute;
+    color: whitesmoke;
+    height: auto;
+    width: 52%;
+    padding: -43.4%;
+    margin-left: 1%;
+    margin-right: 8%;
+    margin-bottom: auto;
+    border:2px;
+    background-color:darkseagreen;
+    border-style: dotted;
+    border-width: 90%;
+    border-color: white;
+    border-bottom: auto;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: normal;
+    font-style:normal;
+    left: 47%;
+    top: 58.5%;
+}

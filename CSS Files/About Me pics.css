@@ -1,0 +1,8 @@
+#container {
+    display:flex; 
+    width: 20%;
+    border:2px;
+    border-style: solid;
+    border-color: white;
+    background-color: darkseagreen;
+}

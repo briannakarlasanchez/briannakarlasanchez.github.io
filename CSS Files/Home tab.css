@@ -1,0 +1,19 @@
+a {
+    color:blue;
+    width: 36%;
+    padding: -43.4%;
+    margin-left: 1%;
+    margin-right: -3%;
+    margin-bottom: auto;
+    border:2px;
+    border-style: solid;
+    border-color: white;
+    background-color: darkseagreen;
+    border-bottom: auto;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: bold;
+    font-style:normal;
+    left: 100%;
+    top: 50%;
+}
